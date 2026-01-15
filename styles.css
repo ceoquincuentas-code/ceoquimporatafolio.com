@@ -1170,20 +1170,7 @@ section {
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-    .showcase-title {
-        font-size: 2.5rem;
-    }
-    
-    .showcase-subtitle {
-        font-size: 1.1rem;
-    }
-    
-    .showcase-content {
-        padding: 20px;
-    }
-}
+
 
 
 <!-- ============================================
@@ -1535,6 +1522,7 @@ AJUSTAR TRANSPARENCIA:
   0 = completamente transparente
   1 = completamente opaco
 */
+
 
 
     
